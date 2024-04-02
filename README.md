@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thuner2007
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning how to make API's
+- 🌱 I’m currently learning Java
 
 
 <!---
