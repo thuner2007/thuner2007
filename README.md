@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @thuner2007
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Java
+Owner of www.revsticks.ch 💜
 
 
 <!---
